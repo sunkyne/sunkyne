@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sunkyne
-- 🌱 I’m currently learning C++ and Flutter
-- 💞️ I’m currently working on an app!
+- 🌱 I’m currently learning Computer Graphics/Animation and Machine learning!
 - 📫 How to reach me:
         Email: sunkyne@gmail.com
         Phone: 469-579-9325
